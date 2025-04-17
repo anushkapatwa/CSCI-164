@@ -1,1 +1,1 @@
-# CSCI-164
+# CSCI-164 AI Programming
